@@ -1,0 +1,6 @@
+﻿  Actor.cpp
+C:\Users\Joaquin Chun\OneDrive\Documents\Visual Studio Projects\Proj3Skeleton\P3 skeleton\MarbleMadness\Actor.cpp(100,17): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Joaquin Chun\OneDrive\Documents\Visual Studio Projects\Proj3Skeleton\P3 skeleton\MarbleMadness\Actor.cpp(104,17): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  StudentWorld.cpp
+  Generating Code...
+  MarbleMadness.vcxproj -> C:\Users\Joaquin Chun\OneDrive\Documents\Visual Studio Projects\Proj3Skeleton\P3 skeleton\Debug\MarbleMadness.exe
